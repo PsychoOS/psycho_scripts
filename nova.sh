@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CUR_DIR=`pwd`
-PACK_PATH="$CUR_DIR/scripts/Nova"
+PACK_PATH="$CUR_DIR/vendor/psycho/prebuilt/app/Home"
 
 # Package manager check to install 'wget'
 declare -A osInfo;
