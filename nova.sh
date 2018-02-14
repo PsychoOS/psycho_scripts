@@ -47,3 +47,5 @@ if [[ $? -eq 0 ]]; then
 else
   echo "Trouble Connecting Internet, Using Old Prebuilds"
 fi
+
+rm -r development/samples/Home
